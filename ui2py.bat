@@ -1,0 +1,1 @@
+pyuic5 -o design.py design.ui
