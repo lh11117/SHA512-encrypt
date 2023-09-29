@@ -1,1 +1,1 @@
-pyinstaller -w -D -n "SHA512-Encrypt" --noconfirm mainrun.py -p design.py -i ico.ico
+pyinstaller -w -D -n "SHA512-Encrypt" --noconfirm mainrun.py -p design.py -p dialog_decrypt.py -p dialog_encrypt.py -i ico.ico
