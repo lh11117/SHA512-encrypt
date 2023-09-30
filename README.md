@@ -3,8 +3,8 @@
 这是一款我自制的加密和解密软件，用Python制作打包，**完全免费开源**
 
 ## 截图
-![image](https://attach.52pojie.cn/forum/202309/29/155113rhjbmkgx5cuebigx.png)
-![image](https://attach.52pojie.cn/forum/202309/29/155148qn89bcaooeo98eoc.png)
+![image](https://github.com/lh11117/SHA512-encrypt/assets/99455215/520459af-8021-461a-8221-d1207125a0ce)
+![image](https://github.com/lh11117/SHA512-encrypt/assets/99455215/a23bcc41-2d78-445f-ab22-99ceab3a843f)
 
 ## 使用方法
 ### 加密
