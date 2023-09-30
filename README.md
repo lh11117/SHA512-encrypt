@@ -25,3 +25,7 @@
 ## 下载地址：
 - 蓝奏云（失效不补）：下载: [https://wwyo.lanzouj.com/ioWRQ1a6p78d](https://wwyo.lanzouj.com/ioWRQ1a6p78d) 密码:1234
 - 吾爱破解论坛发布地址：[https://www.52pojie.cn/thread-1839513-1-1.html](https://www.52pojie.cn/thread-1839513-1-1.html)
+
+## 开源地址：
+- github仓库地址：[https://gitee.com/lh11117/SHA512-encrypt](https://gitee.com/lh11117/SHA512-encrypt)
+- gitee仓库地址：[https://gitee.com/lh11117/SHA512-encrypt](https://gitee.com/lh11117/SHA512-encrypt)
