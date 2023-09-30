@@ -31,3 +31,6 @@
 ## 开源地址：
 - github仓库地址：[https://github.com/lh11117/SHA512-encrypt](https://github.com/lh11117/SHA512-encrypt)
 - gitee仓库地址：[https://gitee.com/lh11117/SHA512-encrypt](https://gitee.com/lh11117/SHA512-encrypt)
+
+## 更多信息
+[更多信息](about.md)  
